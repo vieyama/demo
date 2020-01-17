@@ -6,11 +6,11 @@ function generateUsers() {
     for(var id = 1; id <= 5; id++){
       var name = faker.name.findName();
       var email = faker.internet.email();
-      var phone = faker.phone.phone();
+      var phone = faker.phone.phoneNumber();
 
       users.push({
         "id": id,
-        "nam"e: name,
+        "name": name,
         "email": email,
         "phone": phone
       });
