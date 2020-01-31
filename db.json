@@ -2,21 +2,9 @@
   "posts": [
     {
       "id": 1,
-      "title": "Voluptas rerum quas quia aliquid.",
+      "title": "Judul Baru Lagi",
       "body": "Eaque officiis sequi illum deserunt sint et. Voluptatibus sed et quam ut accusamus quis laboriosam inventore et. Perferendis quo tempore nostrum similique aut modi. Eveniet accusamus omnis qui. A sequi commodi sit quia iure ullam quam itaque explicabo. Similique neque eum minus ea quis et.\n \rQuis labore commodi consequatur eos vel. Aut enim libero facere doloribus. Qui veritatis rerum aut eum. At dolorum quae in fugit veniam nihil architecto cum. Explicabo dolor et. Et est cupiditate rem inventore reprehenderit aut reprehenderit tempore.\n \rAssumenda delectus odio enim veritatis mollitia. Quis a vero. Quaerat dolorum quia eveniet illum ea nulla quasi.",
-      "author": 1
-    },
-    {
-      "id": 2,
-      "title": "Eos voluptatum aliquam aut perferendis distinctio sequi debitis voluptatem fuga.",
-      "body": "Qui et nesciunt omnis dolore tempora quod. Qui aperiam deleniti illo et et facere culpa temporibus quibusdam. Vel dolore facilis veniam itaque illum repellendus veritatis qui quis. Deserunt aliquam amet debitis quidem nostrum. Rem harum omnis totam ipsa nobis possimus porro. Ut doloribus voluptatem perferendis.\n \rMagnam aut atque ut reprehenderit. Aut perferendis quidem voluptatem et quasi. Vel nisi omnis placeat repellendus minus consequatur et facere. Hic eum est quaerat reiciendis quia modi. Aperiam ab quibusdam nobis quia fugit laboriosam ea.\n \rHic velit consequatur veritatis. Saepe quidem consectetur optio autem. Est vero autem sed et dolores voluptatem doloribus voluptas omnis. Et at qui iusto nobis cupiditate nulla voluptatum itaque harum. Magnam temporibus quis accusamus expedita vel odio et et exercitationem. Laboriosam ut mollitia quae reiciendis deleniti.",
-      "author": 1
-    },
-    {
-      "id": 3,
-      "title": "Quia magni facilis repellendus.",
-      "body": "Vel sunt id a unde eos laboriosam. Dolorum accusamus saepe et vitae est illo consequatur ipsam. Eveniet et nulla.\n \rLibero aperiam numquam quaerat. Facilis et unde labore. Sed eos quasi animi id.\n \rId nisi autem inventore eaque sed et ex aut nemo. Consectetur placeat in debitis. Libero consequuntur repellat nostrum omnis libero maxime ut. Est dolorem sunt soluta explicabo a dolore et. Nulla qui iste officia ducimus beatae est officia.",
-      "author": 1
+      "author": 5
     },
     {
       "id": 4,
@@ -119,6 +107,12 @@
       "title": "Voluptatem accusamus id cumque necessitatibus eos dolore.",
       "body": "Animi qui quasi nihil dolorem magni eligendi temporibus. Nam excepturi blanditiis fugiat quia eligendi veniam rerum aut qui. Adipisci qui dolores iste. Ut magnam et. Nihil facere occaecati nemo iusto voluptatem asperiores voluptas temporibus. Molestiae velit eveniet rerum consequuntur.\n \rSequi minima eos blanditiis et voluptatem. Repellendus saepe delectus consequatur et omnis blanditiis est debitis. Dolores minus recusandae consequatur veniam voluptas ea est.\n \rIure eveniet veniam cupiditate et neque. Quia quo quos suscipit necessitatibus quisquam officia mollitia et est. Cum expedita dolores consequatur veritatis explicabo quia. Eos quos optio qui. Ex omnis eaque molestias rerum eum aliquid quia. Eos adipisci deleniti recusandae harum mollitia excepturi asperiores dolorem.",
       "author": 4
+    },
+    {
+      "author": 5,
+      "title": "judul lagi dan lagi",
+      "body": "body lagi dan lagi",
+      "id": 21
     }
   ],
   "users": [
@@ -148,11 +142,282 @@
     },
     {
       "id": 5,
-      "name": "Angelo Reilly",
-      "email": "Harrison_Jacobi67@gmail.com",
-      "phone": "289.831.7605"
+      "name": "Yovie Fesya Pratama",
+      "email": "yoviefp@gmail.com",
+      "phone": "0895385026343"
     }
   ],
-  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
-  "profile": { "name": "typicode" }
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "klasifikasi": [
+    {
+      "id": 1,
+      "name": "Sleek Wooden Gloves",
+      "parent": "null",
+      "type": "Buku",
+      "status": "Aktif",
+      "jmlBuku": 52737,
+      "jmlBahasa": 18827
+    },
+    {
+      "id": 2,
+      "name": "Gorgeous Concrete Cheese",
+      "parent": "null",
+      "type": "Buku",
+      "status": "Aktif",
+      "jmlBuku": 72036,
+      "jmlBahasa": 85850
+    },
+    {
+      "id": 3,
+      "name": "Ergonomic Metal Hat",
+      "parent": "null",
+      "type": "Buku",
+      "status": "Aktif",
+      "jmlBuku": 92065,
+      "jmlBahasa": 65161
+    },
+    {
+      "id": 4,
+      "name": "Generic Rubber Salad",
+      "parent": "null",
+      "type": "Buku",
+      "status": "Aktif",
+      "jmlBuku": 81647,
+      "jmlBahasa": 3977
+    },
+    {
+      "id": 5,
+      "name": "Rustic Fresh Hat",
+      "parent": "null",
+      "type": "Buku",
+      "status": "Aktif",
+      "jmlBuku": 29652,
+      "jmlBahasa": 82610
+    },
+    {
+      "id": 6,
+      "name": "Refined Plastic Mouse",
+      "parent": "null",
+      "type": "ePustaka",
+      "status": "Tidak Aktif",
+      "jmlBuku": 57978,
+      "jmlBahasa": 94220
+    },
+    {
+      "id": 7,
+      "name": "Rustic Concrete Towels",
+      "parent": "null",
+      "type": "ePustaka",
+      "status": "Tidak Aktif",
+      "jmlBuku": 42859,
+      "jmlBahasa": 95235
+    },
+    {
+      "id": 8,
+      "name": "Fantastic Plastic Towels",
+      "parent": "null",
+      "type": "ePustaka",
+      "status": "Tidak Aktif",
+      "jmlBuku": 7510,
+      "jmlBahasa": 97539
+    },
+    {
+      "id": 9,
+      "name": "Incredible Granite Computer",
+      "parent": "null",
+      "type": "ePustaka",
+      "status": "Tidak Aktif",
+      "jmlBuku": 86434,
+      "jmlBahasa": 98789
+    },
+    {
+      "id": 10,
+      "name": "Gorgeous Plastic Mouse",
+      "parent": "null",
+      "type": "ePustaka",
+      "status": "Tidak Aktif",
+      "jmlBuku": 95798,
+      "jmlBahasa": 72621
+    },
+    {
+      "id": 11,
+      "name": "Practical Soft Mouse",
+      "parent": "null",
+      "type": "ePustaka",
+      "status": "Aktif",
+      "jmlBuku": 88647,
+      "jmlBahasa": 33549
+    },
+    {
+      "id": 12,
+      "name": "Handmade Granite Salad",
+      "parent": "null",
+      "type": "ePustaka",
+      "status": "Aktif",
+      "jmlBuku": 60193,
+      "jmlBahasa": 53556
+    },
+    {
+      "id": 13,
+      "name": "Incredible Granite Bacon",
+      "parent": "null",
+      "type": "ePustaka",
+      "status": "Aktif",
+      "jmlBuku": 80479,
+      "jmlBahasa": 96797
+    },
+    {
+      "id": 14,
+      "name": "Sleek Rubber Shoes",
+      "parent": "null",
+      "type": "ePustaka",
+      "status": "Aktif",
+      "jmlBuku": 10882,
+      "jmlBahasa": 19735
+    },
+    {
+      "id": 15,
+      "name": "Practical Fresh Bacon",
+      "parent": "null",
+      "type": "ePustaka",
+      "status": "Aktif",
+      "jmlBuku": 10408,
+      "jmlBahasa": 79036
+    },
+    {
+      "id": 16,
+      "name": "Unbranded Metal Keyboard",
+      "parent": "null",
+      "type": "Buku",
+      "status": "Tidak Aktif",
+      "jmlBuku": 72664,
+      "jmlBahasa": 86347
+    },
+    {
+      "id": 17,
+      "name": "Intelligent Granite Ball",
+      "parent": "null",
+      "type": "Buku",
+      "status": "Tidak Aktif",
+      "jmlBuku": 7588,
+      "jmlBahasa": 36618
+    },
+    {
+      "id": 18,
+      "name": "Ergonomic Granite Chair",
+      "parent": "null",
+      "type": "Buku",
+      "status": "Tidak Aktif",
+      "jmlBuku": 57045,
+      "jmlBahasa": 49365
+    },
+    {
+      "id": 19,
+      "name": "Tasty Soft Gloves",
+      "parent": "null",
+      "type": "Buku",
+      "status": "Tidak Aktif",
+      "jmlBuku": 64872,
+      "jmlBahasa": 94104
+    },
+    {
+      "id": 20,
+      "name": "Handmade Metal Towels",
+      "parent": "null",
+      "type": "Buku",
+      "status": "Tidak Aktif",
+      "jmlBuku": 13646,
+      "jmlBahasa": 7234
+    },
+    {
+      "id": 21,
+      "name": "Gorgeous Frozen Chicken",
+      "parent": "null",
+      "type": "ePustaka",
+      "status": "Aktif",
+      "jmlBuku": 38678,
+      "jmlBahasa": 84530
+    },
+    {
+      "id": 22,
+      "name": "Ergonomic Wooden Car",
+      "parent": "null",
+      "type": "ePustaka",
+      "status": "Aktif",
+      "jmlBuku": 46942,
+      "jmlBahasa": 95045
+    },
+    {
+      "id": 23,
+      "name": "Refined Rubber Sausages",
+      "parent": "null",
+      "type": "ePustaka",
+      "status": "Aktif",
+      "jmlBuku": 67102,
+      "jmlBahasa": 4025
+    },
+    {
+      "id": 24,
+      "name": "Handcrafted Soft Chips",
+      "parent": "null",
+      "type": "ePustaka",
+      "status": "Aktif",
+      "jmlBuku": 50491,
+      "jmlBahasa": 68677
+    },
+    {
+      "id": 25,
+      "name": "Intelligent Rubber Bike",
+      "parent": "null",
+      "type": "ePustaka",
+      "status": "Aktif",
+      "jmlBuku": 37602,
+      "jmlBahasa": 1518
+    },
+    {
+      "id": 26,
+      "name": "Small Soft Pizza",
+      "parent": "null",
+      "type": "Buku",
+      "status": "Tidak Aktif",
+      "jmlBuku": 62951,
+      "jmlBahasa": 67778
+    },
+    {
+      "id": 27,
+      "name": "Rustic Soft Keyboard",
+      "parent": "null",
+      "type": "Buku",
+      "status": "Tidak Aktif",
+      "jmlBuku": 1422,
+      "jmlBahasa": 77861
+    },
+    {
+      "id": 28,
+      "name": "Rustic Soft Table",
+      "parent": "null",
+      "type": "Buku",
+      "status": "Tidak Aktif",
+      "jmlBuku": 10418,
+      "jmlBahasa": 32609
+    },
+    {
+      "id": 29,
+      "name": "Incredible Wooden Bike",
+      "parent": "null",
+      "type": "Buku",
+      "status": "Tidak Aktif",
+      "jmlBuku": 82036,
+      "jmlBahasa": 83183
+    }
+  ]
 }
