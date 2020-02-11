@@ -26,213 +26,65 @@
       "status": false,
       "jmlBuku": 42859,
       "jmlBahasa": 95235
+    }
+  ],
+  "permintaan-klasifikasi": [
+    {
+      "id": 1,
+      "requestMame": "Klasifikasi",
+      "confirmBy": "-",
+      "description": "Deskripsi",
+      "status": true
     },
     {
-      "id": 9,
-      "name": "Incredible Granite Computer",
-      "parent": "null",
-      "type": "ePustaka",
+      "requestMame": "makan",
+      "description": "malam",
+      "confirmBy": "-",
       "status": false,
-      "jmlBuku": 86434,
-      "jmlBahasa": 98789
+      "id": 3
+    }
+  ],
+  "konten": [
+    {
+      "id": 1,
+      "judul": "samuel",
+      "penerbit": "gramedia 33",
+      "sekolah": "smp 1 susukan",
+      "status": "aktif",
+      "pratinjau": "sasasasa"
     },
     {
-      "id": 10,
-      "name": "Gorgeous Plastic Mouse",
-      "parent": "null",
-      "type": "ePustaka",
-      "status": false,
-      "jmlBuku": 95798,
-      "jmlBahasa": 72621
+      "id": 2,
+      "judul": "samuel2",
+      "penerbit": "gramedia2",
+      "sekolah": "smp 2 susukan",
+      "status": "false",
+      "pratinjau": "sasasas"
     },
     {
-      "id": 11,
-      "name": "Practical Soft Mouse",
-      "parent": "null",
-      "type": "ePustaka",
-      "status": true,
-      "jmlBuku": 88647,
-      "jmlBahasa": 33549
-    },
+      "judul": "sasasa",
+      "pratinjau": "sasasas",
+      "penerbit": "sasasa",
+      "sekolah": "sasasas",
+      "status": "false",
+      "id": 3
+    }
+  ],
+  "penerbit": [
     {
-      "id": 12,
-      "name": "Handmade Granite Salad",
-      "parent": "null",
-      "type": "ePustaka",
-      "status": true,
-      "jmlBuku": 60193,
-      "jmlBahasa": 53556
-    },
-    {
-      "id": 13,
-      "name": "Incredible Granite Bacon",
-      "parent": "null",
-      "type": "ePustaka",
-      "status": true,
-      "jmlBuku": 80479,
-      "jmlBahasa": 96797
-    },
-    {
-      "id": 14,
-      "name": "Sleek Rubber Shoes",
-      "parent": "null",
-      "type": "ePustaka",
-      "status": true,
-      "jmlBuku": 10882,
-      "jmlBahasa": 19735
-    },
-    {
-      "id": 15,
-      "name": "Practical Fresh Bacon",
-      "parent": "null",
-      "type": "ePustaka",
-      "status": true,
-      "jmlBuku": 10408,
-      "jmlBahasa": 79036
-    },
-    {
-      "id": 16,
-      "name": "Unbranded Metal Keyboard",
-      "parent": "null",
-      "type": "Buku",
-      "status": false,
-      "jmlBuku": 72664,
-      "jmlBahasa": 86347
-    },
-    {
-      "id": 17,
-      "name": "Intelligent Granite Ball",
-      "parent": "null",
-      "type": "Buku",
-      "status": false,
-      "jmlBuku": 7588,
-      "jmlBahasa": 36618
-    },
-    {
-      "id": 18,
-      "name": "Ergonomic Granite Chair",
-      "parent": "null",
-      "type": "Buku",
-      "status": false,
-      "jmlBuku": 57045,
-      "jmlBahasa": 49365
-    },
-    {
-      "id": 19,
-      "name": "Tasty Soft Gloves",
-      "parent": "null",
-      "type": "Buku",
-      "status": false,
-      "jmlBuku": 64872,
-      "jmlBahasa": 94104
-    },
-    {
-      "id": 20,
-      "name": "Handmade Metal Towels",
-      "parent": "null",
-      "type": "Buku",
-      "status": false,
-      "jmlBuku": 13646,
-      "jmlBahasa": 7234
-    },
-    {
-      "id": 21,
-      "name": "Gorgeous Frozen Chicken",
-      "parent": "null",
-      "type": "ePustaka",
-      "status": true,
-      "jmlBuku": 38678,
-      "jmlBahasa": 84530
-    },
-    {
-      "id": 22,
-      "name": "Ergonomic Wooden Car",
-      "parent": "null",
-      "type": "ePustaka",
-      "status": true,
-      "jmlBuku": 46942,
-      "jmlBahasa": 95045
-    },
-    {
-      "id": 23,
-      "name": "Refined Rubber Sausages",
-      "parent": "null",
-      "type": "ePustaka",
-      "status": true,
-      "jmlBuku": 67102,
-      "jmlBahasa": 4025
-    },
-    {
-      "id": 24,
-      "name": "Handcrafted Soft Chips",
-      "parent": "null",
-      "type": "ePustaka",
-      "status": true,
-      "jmlBuku": 50491,
-      "jmlBahasa": 68677
-    },
-    {
-      "id": 25,
-      "name": "Intelligent Rubber Bike",
-      "parent": "null",
-      "type": "ePustaka",
-      "status": true,
-      "jmlBuku": 37602,
-      "jmlBahasa": 1518
-    },
-    {
-      "id": 26,
-      "name": "Small Soft Pizza",
-      "parent": "null",
-      "type": "Buku",
-      "status": false,
-      "jmlBuku": 62951,
-      "jmlBahasa": 67778
-    },
-    {
-      "id": 27,
-      "name": "Rustic Soft Keyboard",
-      "parent": "null",
-      "type": "Buku",
-      "status": false,
-      "jmlBuku": 1422,
-      "jmlBahasa": 77861
-    },
-    {
-      "id": 28,
-      "name": "Rustic Soft Table",
-      "parent": "null",
-      "type": "Buku",
-      "status": false,
-      "jmlBuku": 10418,
-      "jmlBahasa": 32609
-    },
-    {
-      "id": 29,
-      "name": "Incredible Wooden Bike",
-      "parent": "null",
-      "type": "Buku",
-      "status": false,
-      "jmlBuku": 82036,
-      "jmlBahasa": 83183
-    },
-    {
-      "id": 31,
-      "name": "ddddffff",
-      "parent": "null",
-      "type": "ePustaka",
-      "status": "true",
-      "jmlBuku": "23",
-      "jmlBahasa": "33"
-    },
-    {
-      "name": "fdfd",
-      "parent": "fff",
-      "type": "ePustaka",
-      "status": "true",
-      "jmlBuku": "5",
-      "jmlBahasa": "5",
-      "id": 32
+      "id": 1,
+      "nama": "samuel",
+      "grup": "grup 2",
+      "logo": "true",
+      "alamat": "sepanjang jalan harapan",
+      "tentang": "percobaan",
+      "kota/kabupaten": "pwt",
+      "tlpn": "08987676677",
+      "email": "coba@gmail.com",
+      "fax": "coba",
+      "website": "aksaramaya.co.id",
+      "status": "false",
+      "total": "0"
     }
   ]
 }
