@@ -86,5 +86,15 @@
       "status": "false",
       "total": "0"
     }
+  ],
+  "lembaga": [
+    {
+      "id":1,
+      "namaLembaga":"Kompas Gramedia",
+      "alamat":"Macanan Baru RT 06 RW 01 Karanganom, Klaten 57438.",
+      "emailLembaga":"devi@gramediadigital.com",
+      "kontak":"082324602686",
+      "totalImprint":90
+    }
   ]
 }
