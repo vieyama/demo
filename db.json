@@ -96,5 +96,15 @@
       "kontak":"082324602686",
       "totalImprint":90
     }
+  ],
+  "tahunAjaran":[
+    {
+      "namaSekolah": "SMAN 1 Randudongkal",
+      "namaTahunAjar": "2020/2021",
+      "waktuMulai": "2020-02-12",
+      "waktuSelesai": "2021-02-12",
+      "semester": "Ganjil",
+      "status": "Tidak Aktif"
+    }
   ]
 }
